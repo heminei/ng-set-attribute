@@ -1,6 +1,8 @@
 ng-set-attribute directive
 =========================
 
+Angular directive for set attributes dynamically in ng-repeat! 
+
 How to use:
 -----------
 
